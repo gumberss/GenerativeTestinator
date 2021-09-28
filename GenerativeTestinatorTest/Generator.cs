@@ -6,7 +6,7 @@ using System.Linq;
 using System.Reflection;
 using System.Reflection.Emit;
 
-namespace TestGenerativeinatorTest
+namespace GenerativeTestinatorTest
 {
     public class GeneratorAttribute : TestMethodAttribute
     {

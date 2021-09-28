@@ -1,6 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace TestGenerativeinatorTest
+namespace GenerativeTestinatorTest
 {
     [TestClass]
     public class Tests
