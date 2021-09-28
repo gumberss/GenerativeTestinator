@@ -5,8 +5,8 @@ namespace TestGenerativeinatorTest
     [TestClass]
     public class Tests
     {
-        [Generator(100)]
-        [DataRow(1, 1)] //need to have to make method able to receive parameters, thanks for this C# ¯\_(ツ)_/¯
+        [Generator(times: 100)]
+        [DataRow(1, 1)] //need to have to make method able to receive parameters, thanks for this MsTest ¯\_(ツ)_/¯
         public void Should_sum_two_values(int x, int y)
         {
             Assert.AreEqual(x + y, Sum(x, y));
