@@ -17,6 +17,6 @@
 - See the magic
 
 ![image](https://user-images.githubusercontent.com/38296002/135008719-aba57f1e-db76-4f7b-a6ac-84ba67079448.png)
-- Look the parameters:
+- Look the parameters values:
 
 ![image](https://user-images.githubusercontent.com/38296002/135008827-6bef8ca6-479e-4eda-b519-8b19aa426c39.png)
