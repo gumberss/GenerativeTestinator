@@ -13,7 +13,7 @@
 - Use DataRow with data for your first test (It seems to be necessary to use parameters in test methods)
 - It'll look like:
 
-![image](https://user-images.githubusercontent.com/38296002/135008638-34e06297-c2dc-4ba2-a7d0-6d5b22338d92.png)
+![image](https://user-images.githubusercontent.com/38296002/135009252-0def957e-8cf0-437c-95d5-91fcf9703620.png)
 - See the magic
 
 ![image](https://user-images.githubusercontent.com/38296002/135008719-aba57f1e-db76-4f7b-a6ac-84ba67079448.png)
